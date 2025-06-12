@@ -1,16 +1,22 @@
-[![Math Utility Project (CI included) | © 2025 by giáo.làng](https://github.com/doit-now/math-util-1803/actions/workflows/ci-script.yml/badge.svg)](https://github.com/doit-now/math-util-1803/actions/workflows/ci-script.yml)
+# MARKDOWN - DẠNG HTML NGỌN NHẸ, ĐƠN GIẢN DỄ ĐỌC 
+DÙNG ĐỂ MÔ TẢ THÔNG TIN
+BROWSER, IDE HIỂU NÓ LUÔN
+TẬP TIN NÀY CÓ ĐUÔI .MD
 
-# Welcome to Math Utility Repository
+# h1 đó em 
+## h2 
+* <ul>
+![] <img> 
 
-## You will find in this repo the following stuff:
+#WELCOME TO MALTH ULITILITY 
 
-* A Java Maven project to offer a Math library (to simulate the standard JDK Math library)  
-* A JUnit testing script using TDD, DDT
-* A CI (Continuous Integration) script to automatically check the quality of source code and deploy to a server
-* ...
+## You will find in this repo 
 
-## Screen-shots
-![JUnit with TDD DDT](https://github.com/doit-now/math-util-1803/blob/main/screenshots/JUnit%20with%20DDT.png)
+* a maven java project to provide a math lirary aka java.ulti.math in jdk
 
-### Connect me via hoang.nguyenthe@gmail.com
-#### &#169; 2025 giáo.làng
+* A unit of testing in script using JUint esting 
+framework 
+* A TDD, DDT script
+* A demostration of using CI (Continous Integration) with github action
+
+## Connect me via: sit96leminhduc@gmail.com  
