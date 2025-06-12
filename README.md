@@ -1,14 +1,4 @@
-# MARKDOWN - DẠNG HTML NGỌN NHẸ, ĐƠN GIẢN DỄ ĐỌC 
-DÙNG ĐỂ MÔ TẢ THÔNG TIN
-BROWSER, IDE HIỂU NÓ LUÔN
-TẬP TIN NÀY CÓ ĐUÔI .MD
-
-# h1 đó em 
-## h2 
-* <ul>
-![] <img> 
-
-#WELCOME TO MALTH ULITILITY 
+# WELCOME TO MALTH ULITILITY 
 
 ## You will find in this repo 
 
@@ -19,4 +9,10 @@ framework
 * A TDD, DDT script
 * A demostration of using CI (Continous Integration) with github action
 
+## ScreenShot 
+### TDD, DDT test scpipt with JUnit
+![TDD DDT test scipt](https://github.com/anselamkeykamona/mathutil-1803-main/blob/main/screenshots/TDD_DDT%20with%20JUnit.png)
+
+## Build with maven 
+![Maven Builder](https://github.com/anselamkeykamona/mathutil-1803-main/blob/main/screenshots/Screenshot%202025-06-12%20153921.png)
 ## Connect me via: sit96leminhduc@gmail.com  
