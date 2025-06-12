@@ -26,7 +26,9 @@ public class MathUtility {
         }
         return n * getFactorial(n - 1);
     }
-
+//đem lên server ra màu xanh
+    //+ 1 Tối ưu ngon vì dùng pass test case
+    //+ 2 Test lại thứ đã từng test rất mất công, này đã có test code
 
 
 //    public static long getFactorial(int n) {
